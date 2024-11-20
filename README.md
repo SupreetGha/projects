@@ -3,11 +3,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ---
 
-## 📚 Table of Contents
-1. [Data Engineering](#data-analyst-projects)
-3. [Python](#python)
-
----
 
 
 ## 📝 Data Analytics Projects
