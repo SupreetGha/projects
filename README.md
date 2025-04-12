@@ -8,6 +8,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 ## 📝 Data Analytics Projects
 | Project Link | Area of Analysis | Project Description |
 |--------------|------------------|----------------------|
+| 💸 [Portfolio Optimization](https://github.com/SupreetGha/ray-internation-traditional) | Data Analysis, yfinance | Exploratory Data Analysis to understand the ideal portfolio |
 | 🔥 [Algerian Forest Fire Analysis](https://github.com/SupreetGha/algerian-forest-fires)  | Data Analysis, Data Cleaning, Machine Learning | Exploratory data analysis and predictive modeling to understand and forecast forest fires in Algeria |
 | 🔥 [Taiwan Real Estate Homes Analysis](https://github.com/SupreetGha/taiwan-real-estate/blob/main/README.md)  | Data Analysis, Data Cleaning, Machine Learning | Exploratory data analysis and predictive modeling to understand and forecast home prices in Taiwan |
 | 🚚 [Trucking Market Analysis](https://github.com/SupreetGha/trucking-market-analysis) | Data analysis, data cleaning, data transformation | Solutions and visualizations for understanding if my father should expand his busniess or not given the economy. |
